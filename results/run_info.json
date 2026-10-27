@@ -1,0 +1,11 @@
+{
+  "python": "3.12.14",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "numpy": "2.2.6",
+  "seed": 42,
+  "blas_threads": 1,
+  "elapsed_seconds": 78.89720712500275,
+  "dataset_sha256": "f5385cbb54bbebf7196389109c6b0621faab0c304e3702548165e71c84aede8b",
+  "train_end": "2011-09-01 00:00:00",
+  "validation_end": "2011-11-01 00:00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "ItemKNN": {
+    "neighbors": 50,
+    "shrink": 0
+  },
+  "IALS": {
+    "factors": 64,
+    "reg": 10.0,
+    "alpha": 20.0,
+    "iterations": 12,
+    "seed": 42
+  },
+  "EASE": {
+    "reg": 300.0
+  },
+  "FM": {
+    "factors": 16,
+    "reg": 1e-05,
+    "epochs": 10,
+    "lr": 0.01,
+    "negatives": 3,
+    "seed": 42
+  },
+  "RepeatTargetIALS": {
+    "factors": 64,
+    "reg": 10.0,
+    "alpha": 20.0,
+    "iterations": 12,
+    "seed": 42,
+    "beta": 0.75
+  }
+}

@@ -1,0 +1,17 @@
+.cache/
+data/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+*.zip
+*.xlsx
+*.parquet
+*.pkl
+*.npy
+*.npz
+*.pt
+*.log
+.pytest_cache/
